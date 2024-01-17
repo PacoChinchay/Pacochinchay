@@ -10,6 +10,7 @@ A passionate and creative web developer with a deep love for technology. As a de
   - JavaScript
   - React.js
   - Responsive Design
+  - MySQL
 <!--
 **PacoChinchay/Pacochinchay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
