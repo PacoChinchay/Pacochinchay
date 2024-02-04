@@ -8,10 +8,10 @@ A passionate and creative web developer with a deep love for technology. As a de
   - HTML
   - CSS
   - JavaScript
+  - ASTRO
   - React.js
   - Responsive Design
   - MySQL
-  - Next.js
   - Typescript
   - Tailwind CSS
 <!--
