@@ -10,6 +10,7 @@ A passionate and creative web developer with a deep love for technology. As a de
   - JavaScript
   - ASTRO
   - React.js
+  - Next js
   - Responsive Design
   - MySQL
   - Typescript
