@@ -21,6 +21,7 @@ Un apasionado y creativo desarrollador web con un profundo amor por la tecnolog�
   - Angular
   - PostgreSQL
   - PHP
+  - React Native
 <!--
 **PacoChinchay/Pacochinchay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
