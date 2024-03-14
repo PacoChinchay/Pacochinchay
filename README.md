@@ -2,10 +2,10 @@
 
 ![Foto de fondo para linkedin con fotografia azul y blanco (1)](https://github.com/PacoChinchay/Pacochinchay/assets/109483099/717262b7-aced-4d9f-aa01-4f45bcc2b776)
 
-<h3 align="center">Un apasionado y creativo desarrollador web con un profundo amor por la tecnología. Como estudiante comprometido, siempre estoy ansioso por aprender y explorar nuevas posibilidades en el vasto mundo del desarrollo web.</h3>
+<h4 align="center">Un apasionado y creativo desarrollador web con un profundo amor por la tecnología. Como estudiante comprometido, siempre estoy ansioso por aprender y explorar nuevas posibilidades en el vasto mundo del desarrollo web.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/paco jordano chinchay chuquilin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paco jordano chinchay chuquilin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
