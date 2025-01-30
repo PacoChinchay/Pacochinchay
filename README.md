@@ -34,10 +34,7 @@ Me considero proactivo, creativo y siempre dispuesto a mejorar tanto mis habilid
 
 ## 🌱 Actualmente aprendiendo
 
-- Patrones de diseño en .NET
-- Integración de APIs RESTful
-- Profundizando en Angular
-
+- Desarrollo web con **Laravel** (perdí la batalla contra **PhP**)
 ---
 
 ## 📫 Contacto
